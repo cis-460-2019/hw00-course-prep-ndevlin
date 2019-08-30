@@ -9,6 +9,7 @@
 \
 Nathan Devlin\
 \
-https://github.com/cis-460-2019/hw00-course-prep-ndevlin/commit/71ed4fec3215e6722ad75abd5dbc51c259b006e8\
+https://github.com/cis-460-2019/hw00-course-prep-ndevlin/commit/0ff4cbaddc7f59313e02c49cd4a94dc639653220\
+\
 \
 }
